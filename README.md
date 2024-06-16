@@ -1,5 +1,5 @@
 # Actividad 1
-Entregar los siguientes documentos
+<br>Entregar los siguientes documentos<br/>
 Crear proyecto utilizando por lo menos 2 librerias 
 Utilizar java script y describir lo que realiza el programa
 # Estructura
